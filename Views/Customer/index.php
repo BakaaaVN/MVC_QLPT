@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link href="https://localhost/MVC_QLPT/Content/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-<link href="https://localhost/MVC_QLPT/Content/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css">
+<link href="http://localhost/MVC_QLPT/Content/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="http://localhost/MVC_QLPT/Content/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
 <title>Cửa hàng thực phẩm chức năng</title>
